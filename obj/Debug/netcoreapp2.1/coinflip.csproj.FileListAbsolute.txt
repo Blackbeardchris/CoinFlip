@@ -1,0 +1,11 @@
+/Users/christopherl10/repos/coinflip/bin/Debug/netcoreapp2.1/coinflip.deps.json
+/Users/christopherl10/repos/coinflip/bin/Debug/netcoreapp2.1/coinflip.runtimeconfig.json
+/Users/christopherl10/repos/coinflip/bin/Debug/netcoreapp2.1/coinflip.runtimeconfig.dev.json
+/Users/christopherl10/repos/coinflip/bin/Debug/netcoreapp2.1/coinflip.dll
+/Users/christopherl10/repos/coinflip/bin/Debug/netcoreapp2.1/coinflip.pdb
+/Users/christopherl10/repos/coinflip/obj/Debug/netcoreapp2.1/coinflip.csprojAssemblyReference.cache
+/Users/christopherl10/repos/coinflip/obj/Debug/netcoreapp2.1/coinflip.csproj.CoreCompileInputs.cache
+/Users/christopherl10/repos/coinflip/obj/Debug/netcoreapp2.1/coinflip.AssemblyInfoInputs.cache
+/Users/christopherl10/repos/coinflip/obj/Debug/netcoreapp2.1/coinflip.AssemblyInfo.cs
+/Users/christopherl10/repos/coinflip/obj/Debug/netcoreapp2.1/coinflip.dll
+/Users/christopherl10/repos/coinflip/obj/Debug/netcoreapp2.1/coinflip.pdb
